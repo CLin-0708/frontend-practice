@@ -1,0 +1,14 @@
+# macOS 系统文件
+.DS_Store
+
+# Windows 缩略图
+Thumbs.db
+
+# 临时文件
+*.tmp
+
+# 日志文件
+*.log
+
+# VS Code 配置文件夹
+.vscode/
